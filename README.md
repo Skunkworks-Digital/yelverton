@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/Skunkworks-Digital/yelverton/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Skunkworks-Digital/yelverton/actions/workflows/pages/pages-build-deployment)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
